@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744178151538",
+    "firebase_url": "https://soap-3630b.firebaseio.com",
+    "project_id": "soap-3630b",
+    "storage_bucket": "soap-3630b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744178151538:android:f1d215cf14c72357",
+        "android_client_info": {
+          "package_name": "com.example.wangdavid.soap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744178151538-7belljnf9ngf5ieb0oaaetbd9b5lu8si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9D5XLzp7U4z3KAnx3K1OVfQbwmV49U78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744178151538-7belljnf9ngf5ieb0oaaetbd9b5lu8si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
